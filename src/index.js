@@ -6,7 +6,7 @@ import './index.css';
 import App from './App';
 
 
-const liffId ='2001245899-jrgM28vo'
+const liffId =''
 const appStyle = {
   marginLeft :"20px",
   display: 'inline-block'
